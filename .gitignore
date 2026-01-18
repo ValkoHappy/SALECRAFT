@@ -1,0 +1,9 @@
+# Unnecessary files
+*.html
+!index.html
+extract_styles.py
+
+# System files
+.DS_Store
+Thumbs.db
+desktop.ini
